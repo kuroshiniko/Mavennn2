@@ -5,8 +5,5 @@ public class Main {
 
 
         Tester tester = new Tester("Aleksandr", "Vitushka", 1, "B2", 1100);
-        tester.getFullName();
-        tester.print();
-        tester.print();
     }
 }
